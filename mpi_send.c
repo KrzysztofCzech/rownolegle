@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
     number = -1;
     MPI_Send(&number, 1, MPI_INT, 1, 0, MPI_COMM_WORLD);
     printf("Process 0 send number %d to process 1\n", number);
-    MPI_Recv(&number, 1, MPI_INT, 0, 0, MPI_COMM_WORLD, MPI_STATUS_IGNORE);
+    MPI_Recv(&number, 1, MPI_INT, 1, 0, MPI_COMM_WORLD, MPI_STATUS_IGNORE);
     printf("Process 0 received number %d from process 1\n", number);
   } else if (world_rank == 1) {
     MPI_Recv(&number, 1, MPI_INT, 0, 0, MPI_COMM_WORLD, MPI_STATUS_IGNORE);
