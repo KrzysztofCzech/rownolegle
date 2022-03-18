@@ -27,6 +27,6 @@ if(comm.rank == 0):
     with open('results.txt', 'w') as f:
         f.write(str(time2-time1) + "time passed")
         f.write('\n')
-        f.write(str(time2-time1)/(number_of_sends *2) + "delay time in sec")
+        f.write(str((time2-time1)/(number_of_sends *2)) + "delay time in sec")
         f.write('\n')
 
