@@ -1,4 +1,4 @@
-import random
+#!/usr/bin/python
 from mpi4py import MPI
 import sys
 
