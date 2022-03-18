@@ -14,7 +14,7 @@ if comm.size < 2:
 data = 0
 comm.barrier()
 time1 = MPI.Wtime()
-for i in range(0,1000):
+for i in range(0,number_of_sends):
     if (comm.rank == 0):
         comm.send(data, dest = 1, tag = 11)
         data = comm.recv( source = 1, tag = 12)
