@@ -24,7 +24,7 @@ for i in range(0,cycles_num):
     comm.barrier()
     time2 = MPI.Wtime()
     size = sys.getsizeof(buff)
-    res.append((time2 - time1)/size)
+    res.append(size/(time2 - time1))
     size_list.append(size)
 
 
