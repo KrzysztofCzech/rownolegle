@@ -30,8 +30,8 @@ for i in range(0,cycles_num):
 
 if(comm.rank == 0):
     with open('results.txt', 'w') as f:
-        f.write(size_list)
+        f.write(",".join(size_list))
         f.write('\n')
-        f.write(res)
+        f.write(','.join(res))
         f.write('\n')
 
