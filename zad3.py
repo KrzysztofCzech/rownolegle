@@ -4,7 +4,7 @@ import sys
 
 cycles_num = int(sys.argv[1])
 
-data_to_send = [0] * 10 
+data_to_send = [0] * 20 
 buff = []
 res = []
 size_list = []
@@ -14,7 +14,6 @@ if comm.size < 2:
     print("err world to small")
 
 for i in range(0,cycles_num):
-    buff.extend(data_to_send)
     comm.barrier()
     time1 = MPI.Wtime()
     if (comm.rank == 0):
@@ -24,8 +23,9 @@ for i in range(0,cycles_num):
     comm.barrier()
     time2 = MPI.Wtime()
     size = sys.getsizeof(buff)
-    res.append(size/(time2 - time1))
+    res.append(int(size/(time2 - time1)))
     size_list.append(size)
+    buff.extend(data_to_send)
 
 
 if(comm.rank == 0):
