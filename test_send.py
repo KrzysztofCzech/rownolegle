@@ -28,7 +28,7 @@ if mode == 0:
         req = comm.isend(data, dest = 1, tag = 11)
         req.wait()
     if (comm.rank == 1):
-        req = comm.irecv( source = 0, tag = 11)
+        req = comm.irecv(tag = 11)
         data = req.wait()
         print("Data received mode 0")
 
