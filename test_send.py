@@ -17,6 +17,7 @@ MPI.Attach_buffer(buff)
 if mode == 1:
     if (comm.rank == 0):
         comm.bsend(data, dest = 0, tag = 11)
+        MPI.Detach_buffer(buff)
     if (comm.rank == 1):
         data = comm.recv( source = 0, tag = 11)
         print("Data received mode 1")
