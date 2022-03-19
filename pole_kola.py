@@ -35,7 +35,6 @@ send_buf = array.array("I",[circle_count])
 comm.Reduce(send_buf,[buff,MPI.INT], op = MPI.SUM, root = 0)
 time2 = MPI.Wtime()
 
-int.from_bytes(buff, byteorder='big', signed=False)
 if (comm.rank == 0):
     pi = 4.0*buff[0]/npoints
     print("Pi wynosi " + str(pi))
