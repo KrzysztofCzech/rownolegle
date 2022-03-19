@@ -41,7 +41,7 @@ for i in range(0,len(size_list)):
         sizes_final.append(prev_size)
         acc = 0
         num = 0
-    prev_size = size[i]
+    prev_size = size_list[i]
     acc += res[i]
     num +=1
 
