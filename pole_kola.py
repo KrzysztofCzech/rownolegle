@@ -40,3 +40,11 @@ if (comm.rank == 0):
     pi = 4.0*buff[0]/npoints
     print("Pi wynosi " + str(pi))
     print("czas = " + str(time2 - time1))
+
+if(comm.rank == 0):
+    with open('results_kolo.txt', 'a') as f:
+        f.write(f"PI = {pi}")
+        f.write('\n')
+        f.write(f"time = {time2 - time1}")
+        f.write('\n')
+        f.write(f"Size = {npoints}")
