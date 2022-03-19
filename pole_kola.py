@@ -22,11 +22,12 @@ circle_count = 0
 set_seed(comm.rank)
 comm.barrier()
 time1 = MPI.Wtime()
-for i in range(0,npoints_per_node):
+while(npoints_per_node):
     xcoordinate = random.uniform(0,1)
     ycoordinate = random.uniform(0,1)
     if check_in_circle(xcoordinate, ycoordinate):
         circle_count = circle_count + 1
+    npoints_per_node -= 1
 send_buf = array.array("I",[circle_count])
 
 # if comm.rank != 0:
