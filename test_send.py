@@ -12,7 +12,7 @@ if comm.size < 2:
 data = 0
 comm.barrier()
 time1 = MPI.Wtime()
-buff = bytearray(64)
+buff = bytearray(256)
 MPI.Attach_buffer(buff)
 if mode == 1:
     if (comm.rank == 0):
