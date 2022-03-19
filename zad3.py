@@ -30,7 +30,7 @@ for i in range(0,cycles_num):
     buff.extend(data_to_send)
 
 #get average speed rate for duplicated size
-prev_size = size_list[i]
+prev_size = size_list[0]
 acc= 0
 num = 0
 speed_rates =[]
