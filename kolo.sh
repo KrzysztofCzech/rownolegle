@@ -2,7 +2,7 @@
 #SBATCH --nodes 1
 #SBATCH --ntasks 4
 #SBATCH --time=00:10:00
-#SBATCH --partition=plgrid
+#SBATCH --partition=plgrid-short
 #SBATCH --account=plgmpr22
 
 module add plgrid/tools/openmpi
