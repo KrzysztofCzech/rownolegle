@@ -6,8 +6,8 @@ from numpy import equal
 
 cycles_num = int(sys.argv[1])
 
-data = [0] *20 
-data_to_send = [0] *20
+data = [0] *30 
+data_to_send = []
 res = []
 size_list = []
 comm = MPI.COMM_WORLD
@@ -61,12 +61,13 @@ if(comm.rank == 0):
         f.write(','.join(map(str,sizes_final)))
         f.write('\n')
 
-data = [0] *20 
-data_to_send = [0] *20
+data = [0] *30 
+data_to_send = []
 res = []
 size_list = []
 
 for i in range(0,cycles_num):
+    size = sys.getsizeof(data_to_send)
     comm.barrier()
     time1 = MPI.Wtime()
     if (comm.rank == 0):
@@ -79,7 +80,7 @@ for i in range(0,cycles_num):
     time2 = MPI.Wtime()
     res.append(int(size/(time2 - time1)))
     size_list.append(size)
-    buff.extend(data)
+    data_to_send.extend(data)
 
 #get average speed rate for duplicated size
 prev_size = size_list[0]
