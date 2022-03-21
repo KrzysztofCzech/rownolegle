@@ -1,6 +1,6 @@
 #!/bin/bash -l
 #SBATCH --nodes 1
-#SBATCH --ntasks 4
+#SBATCH --ntasks 12
 #SBATCH --time=00:10:00
 #SBATCH --partition=plgrid-short
 #SBATCH --account=plgmpr22
