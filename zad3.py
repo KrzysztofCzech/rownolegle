@@ -7,7 +7,7 @@ from numpy import equal
 cycles_num = int(sys.argv[1])
 
 data = [0] *30 
-data_to_send = []
+data_to_send = [0,0,0,0,0]
 res = []
 size_list = []
 comm = MPI.COMM_WORLD
@@ -62,7 +62,7 @@ if(comm.rank == 0):
         f.write('\n')
 
 data = [0] *30 
-data_to_send = []
+data_to_send = [0,0,0,0,0]
 res = []
 size_list = []
 
