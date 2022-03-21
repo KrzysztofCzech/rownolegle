@@ -6,7 +6,7 @@ from numpy import equal
 
 cycles_num = int(sys.argv[1])
 
-data = [0] *30 
+data = [0] *10 
 data_to_send = [0,0,0,0,0]
 res = []
 size_list = []
@@ -61,7 +61,7 @@ if(comm.rank == 0):
         f.write(','.join(map(str,sizes_final)))
         f.write('\n')
 
-data = [0] *30 
+data = [0] *10 
 data_to_send = [0,0,0,0,0]
 res = []
 size_list = []
