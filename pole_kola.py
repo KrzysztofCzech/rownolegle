@@ -14,7 +14,6 @@ def set_seed(rank):
 
 buff = array.array("I", [0])
 npoints = int(sys.argv[1])
-print("size" + str(comm.size))
 
 npoints_per_node = npoints // comm.size
 
@@ -38,6 +37,11 @@ time2 = MPI.Wtime()
 
 if (comm.rank == 0):
     pi = 4.0*buff[0]/npoints
-    print("Pi wynosi " + str(pi))
-    print("czas = " + str(time2 - time1))
+    print("Pi wynosi \n" + str(pi))
+    print("czas = \n" + str(time2 - time1))
+    print("size = ")
+    print(str(comm.size))
+    print("npoint = ")
+    print(str(npoints))
+
 
