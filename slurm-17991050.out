@@ -1,0 +1,132 @@
+ plgrid/apps/cuda/11.2 loaded.
+ plgrid/libs/gdrcopy/2.2-cuda-11.2 loaded.
+ plgrid/libs/ucx/1.10.0-cuda-11.2 loaded.
+ plgrid/tools/binutils/2.34 loaded.
+ plgrid/tools/gcc/9.3.0 loaded.
+ plgrid/tools/nvhpc/22.3 loaded.
+ plgrid/tools/openmpi/4.1.2-nvhpc-22.3 loaded.
+ plgrid/tools/binutils/2.34 unloaded.
+ plgrid/tools/gcc/9.3.0 unloaded.
+ plgrid/tools/gcc/6.4.0 loaded.
+ plgrid/tools/intel/18.0.0 loaded.
+ plgrid/libs/mkl/2018.0.0 loaded.
+ plgrid/tools/python/3.6.5 loaded.
+ plgrid/tools/impi/2018 loaded.
+ plgrid/libs/python-mpi4py/3.0.1-python-3.6 loaded.
+
+The following have been reloaded with a version change:
+  1) plgrid/tools/gcc/9.3.0 => plgrid/tools/gcc/6.4.0
+
+ plgrid/libs/mkl/2018.0.0 unloaded.
+ plgrid/tools/python/3.6.5 unloaded.
+ plgrid/tools/gcc/6.4.0 unloaded.
+ plgrid/tools/intel/18.0.0 unloaded.
+ plgrid/tools/impi/2018 unloaded.
+ plgrid/libs/python-mpi4py/3.0.1-python-3.6 unloaded.
+ plgrid/tools/gcc/6.4.0 loaded.
+ plgrid/tools/intel/18.0.0 loaded.
+ plgrid/libs/mkl/2018.0.0 loaded.
+ plgrid/tools/python/2.7.14 loaded.
+ plgrid/tools/impi/2018 loaded.
+ plgrid/libs/python-mpi4py/3.0.0-python-2.7 loaded.
+
+The following have been reloaded with a version change:
+  1) plgrid/libs/python-mpi4py/3.0.1-python-3.6 => plgrid/libs/python-mpi4py/3.0.0-python-2.7
+  2) plgrid/tools/python/3.6.5 => plgrid/tools/python/2.7.14
+
+Pi wynosi 
+3.14376
+czas = 
+0.11196398735
+size = 
+1
+npoint = 
+100000
+Pi wynosi 
+3.14352
+czas = 
+0.0632021427155
+size = 
+2
+npoint = 
+100000
+Pi wynosi 
+3.14868
+czas = 
+0.0423130989075
+size = 
+3
+npoint = 
+100000
+Pi wynosi 
+3.14696
+czas = 
+0.0316319465637
+size = 
+4
+npoint = 
+100000
+Pi wynosi 
+3.1398
+czas = 
+0.0257670879364
+size = 
+5
+npoint = 
+100000
+Pi wynosi 
+3.13724
+czas = 
+0.0212850570679
+size = 
+6
+npoint = 
+100000
+Pi wynosi 
+3.14236
+czas = 
+0.0237190723419
+size = 
+7
+npoint = 
+100000
+Pi wynosi 
+3.13824
+czas = 
+0.0168850421906
+size = 
+8
+npoint = 
+100000
+Pi wynosi 
+3.1412
+czas = 
+0.0151691436768
+size = 
+9
+npoint = 
+100000
+Pi wynosi 
+3.14516
+czas = 
+0.0143239498138
+size = 
+10
+npoint = 
+100000
+Pi wynosi 
+3.1418
+czas = 
+0.0121719837189
+size = 
+11
+npoint = 
+100000
+Pi wynosi 
+3.13668
+czas = 
+0.0141479969025
+size = 
+12
+npoint = 
+100000
