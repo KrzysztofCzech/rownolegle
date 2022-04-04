@@ -30,7 +30,7 @@ int main(int argc, char *argv[]){
 
     #pragma omp threadprivate(seed)
     //#pragma omp parallel for num_threads(N_THREADS) schedule(static, CHUNK_SIZE)
-    #pragma omp parallel for num_threads(N_THREADS) schedule(dynamic, CHUNK_SIZE)    
+    #pragma omp parallel for num_threads(N_THREADS) schedule(guided, CHUNK_SIZE)    
     for(int i = 0; i< TAB_SIZE; i++){
         seed = 25234 + 17 * omp_get_thread_num();
 
