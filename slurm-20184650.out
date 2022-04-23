@@ -1,0 +1,76 @@
+max bucket size 20
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,8000000,1.17094,19.495,11.0159,2.67585,34.3577
+max bucket size 19
+max bucket size 19
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,2,4000000,0.588457,11.2848,5.5683,1.49195,18.9335
+max bucket size 24
+max bucket size 24
+max bucket size 24
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,3,2666660,0.391134,9.20155,3.59286,1.09168,14.2772
+max bucket size 28
+max bucket size 28
+max bucket size 28
+max bucket size 28
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,4,2000000,0.293121,6.94093,2.71853,0.808707,10.7613
+max bucket size 21
+max bucket size 21
+max bucket size 21
+max bucket size 21
+max bucket size 21
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,5,1600000,0.237957,7.65232,2.53503,1.08906,11.5144
+max bucket size 20
+max bucket size 21
+max bucket size 20
+max bucket size 21
+max bucket size 21
+max bucket size 21
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,6,1333330,0.196138,6.59113,2.04768,1.03349,9.86843
+max bucket size 37
+max bucket size 38
+max bucket size 39
+max bucket size 37
+max bucket size 37
+max bucket size 36
+max bucket size 36
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,7,1142850,0.17347,7.16445,1.69131,0.734744,9.76397
+max bucket size 25
+max bucket size 25
+max bucket size 26
+max bucket size 25
+max bucket size 25
+max bucket size 25
+max bucket size 25
+max bucket size 26
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,8,1000000,0.153801,5.08691,1.41895,0.662253,7.32191
