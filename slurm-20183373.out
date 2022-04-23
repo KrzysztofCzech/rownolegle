@@ -1,0 +1,72 @@
+max bucket size 100000000
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,1,1.17927,5.87607,62.8648,1.41537,71.3355
+max bucket size 10000014
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,10,1.17546,6.05805,54.6152,1.42735,63.276
+max bucket size 1000015
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,100,1.17763,7.67804,47.1148,1.42924,57.3997
+max bucket size 100032
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,1000,1.17642,8.92462,39.5098,1.56862,51.1795
+max bucket size 10034
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,10000,1.17751,14.0862,32.6421,1.58495,49.4907
+max bucket size 1019
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,100000,1.18409,25.6628,24.713,1.5702,53.1301
+max bucket size 113
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,1000000,1.17887,23.5799,18.2491,1.69876,44.7066
+max bucket size 62
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,2000000,1.1826,25.7983,15.8336,1.94924,44.7637
+max bucket size 30
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,5000000,1.1919,22.231,13.346,2.34272,39.1117
+max bucket size 19
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,8000000,1.18334,27.2815,11.2453,3.0162,42.7263
+max bucket size 18
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,10000000,1.18975,27.8269,10.2656,3.56022,42.8425
+max bucket size 12
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,20000000,1.18938,32.1697,9.91941,5.52617,48.8047

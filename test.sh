@@ -6,7 +6,7 @@
 #SBATCH --account=plgmpr22
 
 
-./omp_sort 100 1 1
-./omp_sort 100 1 10
+./omp_sort 10000000 1 1
+./omp_sort 100000000 1 10
 
 
