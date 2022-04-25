@@ -1,11 +1,11 @@
 #!/bin/bash -l
 #SBATCH --nodes 1
 #SBATCH --ntasks 8
-#SBATCH --time=00:59:00
-#SBATCH --partition=plgrid-short
+#SBATCH --time=03:00:00
+#SBATCH --partition=plgrid
 #SBATCH --account=plgmpr22
 
- for i in {0..1}
+ for i in {0..5}
     do
     ./omp_sort3 1000000000 1 50000000
     ./omp_sort3 1000000000 2 50000000
