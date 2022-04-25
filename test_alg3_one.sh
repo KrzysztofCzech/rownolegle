@@ -1,7 +1,7 @@
 #!/bin/bash -l
 #SBATCH --nodes 1
 #SBATCH --ntasks 1
-#SBATCH --time=00:05:00
+#SBATCH --time=00:59:00
 #SBATCH --partition=plgrid-short
 #SBATCH --account=plgmpr22
 
