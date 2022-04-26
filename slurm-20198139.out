@@ -1,0 +1,60 @@
+max bucket size 1000000
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,1,0.0108053,0.0546818,0.44282,0.0131377,0.521445
+max bucket size 100004
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,10,0.0107084,0.0587269,0.378487,0.0134662,0.461389
+max bucket size 10007
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,100,0.0106186,0.0593369,0.305319,0.0133676,0.388643
+max bucket size 1009
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,1000,0.0108483,0.0624526,0.236886,0.013602,0.323789
+max bucket size 107
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,10000,0.0110691,0.0710773,0.16631,0.0137314,0.262188
+max bucket size 61
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,20000,0.0110043,0.0793056,0.144304,0.0142409,0.248855
+max bucket size 31
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,50000,0.0111182,0.0898142,0.11608,0.0175382,0.234551
+max bucket size 19
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,80000,0.0111612,0.0984882,0.103655,0.0200185,0.233324
+max bucket size 17
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,100000,0.0112267,0.101321,0.0945941,0.0205944,0.227736
+max bucket size 15
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,200000,0.0113436,0.134012,0.107768,0.0310658,0.28419

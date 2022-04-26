@@ -1,0 +1,60 @@
+max bucket size 1000000
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,1,0.0111221,0.0560688,0.452877,0.0134736,0.533541
+max bucket size 100008
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,10,0.0112447,0.0595488,0.3771,0.01348,0.461374
+max bucket size 10011
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,100,0.0111259,0.0625558,0.305431,0.0135093,0.392622
+max bucket size 1012
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,1000,0.0113007,0.06978,0.236379,0.0136065,0.331066
+max bucket size 113
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,10000,0.0113023,0.0851835,0.16261,0.0145259,0.273622
+max bucket size 56
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,20000,0.0113127,0.0892293,0.143873,0.0150277,0.259443
+max bucket size 27
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,50000,0.0113533,0.113469,0.103835,0.0170611,0.245719
+max bucket size 18
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,80000,0.0113471,0.116208,0.0559983,0.0223044,0.205858
+max bucket size 14
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,100000,0.0111364,0.128964,0.0835136,0.0209781,0.244592
+max bucket size 8
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,200000,0.0111254,0.156571,0.0736347,0.026613,0.267945

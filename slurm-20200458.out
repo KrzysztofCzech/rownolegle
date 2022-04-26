@@ -1,0 +1,60 @@
+max bucket size 1000000
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,1,0.0111788,0.0567354,0.452321,0.0137051,0.533941
+max bucket size 100004
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,10,0.0107113,0.0591571,0.380795,0.0134841,0.464147
+max bucket size 10008
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,100,0.0111073,0.0622018,0.30828,0.0135039,0.395093
+max bucket size 1016
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,1000,0.011287,0.0690294,0.239363,0.0136539,0.333334
+max bucket size 109
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,10000,0.0112881,0.0837409,0.154582,0.0142515,0.263863
+max bucket size 62
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,20000,0.0113049,0.0903708,0.142431,0.0149485,0.259055
+max bucket size 27
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,50000,0.0112926,0.105167,0.120715,0.0181512,0.255326
+max bucket size 19
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,80000,0.0113406,0.127175,0.0819213,0.0222417,0.242679
+max bucket size 16
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,100000,0.0112828,0.133033,0.0738874,0.0227127,0.240916
+max bucket size 8
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,200000,0.0112962,0.148243,0.0899389,0.0264406,0.275919

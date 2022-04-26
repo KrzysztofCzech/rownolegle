@@ -1,0 +1,60 @@
+max bucket size 1000000
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,1,0.0106654,0.0546998,0.426549,0.0131972,0.505111
+max bucket size 100005
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,10,0.0102585,0.0553677,0.365944,0.0134816,0.445052
+max bucket size 10010
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,100,0.0112731,0.0628649,0.296761,0.0134948,0.384395
+max bucket size 1014
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,1000,0.0113927,0.0693128,0.237705,0.0135759,0.331987
+max bucket size 113
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,10000,0.0112568,0.0833311,0.161731,0.0143518,0.270671
+max bucket size 65
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,20000,0.0112592,0.0860563,0.145818,0.0146556,0.257789
+max bucket size 28
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,50000,0.0113343,0.102486,0.120602,0.0172516,0.251674
+max bucket size 18
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,80000,0.0115444,0.115298,0.087871,0.0220356,0.236749
+max bucket size 15
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,100000,0.0113379,0.135681,0.0553766,0.0241512,0.226547
+max bucket size 8
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+1000000,1,200000,0.0113102,0.177628,0.0632317,0.0347558,0.286926
