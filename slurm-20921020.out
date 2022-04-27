@@ -1,0 +1,456 @@
+max bucket size 27
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,5000000,1.03641,16.7961,11.1967,2.02027,31.0495
+max bucket size 32
+max bucket size 32
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,2,2500000,0.579193,10.5368,5.52806,1.47631,18.1203
+max bucket size 32
+max bucket size 32
+max bucket size 31
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,3,1666660,0.389476,8.98966,4.14542,1.0456,14.5702
+max bucket size 32
+max bucket size 32
+max bucket size 31
+max bucket size 30
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,4,1250000,0.282107,6.79062,3.1039,0.923249,11.0999
+max bucket size 31
+max bucket size 31
+max bucket size 31
+max bucket size 32
+max bucket size 31
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,5,1000000,0.245168,6.20991,2.65635,0.771154,9.88259
+max bucket size max bucket size 4848
+
+max bucket size 48
+max bucket size 48
+max bucket size 48
+max bucket size 48
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,6,833330,0.212686,5.92635,2.12456,0.700993,8.96459
+max bucket size 31
+max bucket size 30
+max bucket size 31
+max bucket size 30
+max bucket size 30
+max bucket size 30
+max bucket size 29
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,7,714280,0.171537,5.43966,1.90251,0.542569,8.05627
+max bucket size 40
+max bucket size 40
+max bucket size 40
+max bucket size 40
+max bucket size 40
+max bucket size 40
+max bucket size 40
+max bucket size 40
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,8,625000,0.143052,5.35499,1.75216,0.504718,7.75493
+max bucket size 30
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,5000000,0.999972,17.5508,10.0093,2.21495,30.7751
+max bucket size 29
+max bucket size 30
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,2,2500000,0.58082,10.9375,5.83156,1.4115,18.7614
+max bucket size 31
+max bucket size 31
+max bucket size 31
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,3,1666660,0.40981,8.68599,4.22053,1.08927,14.4056
+max bucket size 29
+max bucket size 28
+max bucket size 29
+max bucket size 29
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,4,1250000,0.276483,7.15151,3.23805,0.953495,11.6195
+max bucket size 49
+max bucket size 50
+max bucket size 47
+max bucket size 47
+max bucket size 50
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,5,1000000,0.244037,6.60909,2.47131,0.764482,10.0889
+max bucket size 31
+max bucket size 30
+max bucket size 31
+max bucket size 30
+max bucket size 30
+max bucket size 30
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,6,833330,0.193914,5.59171,3.02573,0.817637,9.62899
+max bucket size 30
+max bucket size 29
+max bucket size 29
+max bucket size 29
+max bucket size 29
+max bucket size 29
+max bucket size 29
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,7,714280,0.170398,5.51436,1.90014,0.571222,8.15612
+max bucket size 29
+max bucket size 28
+max bucket size 28
+max bucket size 29
+max bucket size 29
+max bucket size 29
+max bucket size 29
+max bucket size 28
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,8,625000,0.143342,5.24726,2.38703,0.459175,8.23681
+max bucket size 32
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,5000000,1.00224,17.6342,11.1203,2.09224,31.849
+max bucket size 33
+max bucket size 33
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,2,2500000,0.583385,10.6681,5.34491,1.48739,18.0837
+max bucket size 29
+max bucket size 29
+max bucket size 29
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,3,1666660,0.386249,9.93392,4.30615,1.16289,15.7892
+max bucket size 35
+max bucket size 36
+max bucket size 36
+max bucket size 38
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,4,1250000,0.278789,7.34442,3.17928,0.931104,11.7336
+max bucket size 30
+max bucket size 30
+max bucket size 30
+max bucket size 29
+max bucket size 30
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,5,1000000,0.247812,5.9432,2.70324,0.747981,9.64224
+max bucket size 36
+max bucket size 37
+max bucket size 36
+max bucket size 36
+max bucket size 36
+max bucket size 35
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,6,833330,0.190833,5.8722,2.19484,0.637611,8.89548
+max bucket size 36
+max bucket size 35
+max bucket size 35
+max bucket size 36
+max bucket size 35
+max bucket size 35
+max bucket size 35
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,7,714280,0.17003,5.13075,2.73447,0.625622,8.66088
+max bucket size 29
+max bucket size 29
+max bucket size 30
+max bucket size 30
+max bucket size 30
+max bucket size 29
+max bucket size 30
+max bucket size 29
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,8,625000,0.221058,5.20088,2.31946,0.522645,8.26404
+max bucket size 28
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,5000000,1.0012,16.6325,11.238,1.97918,30.8509
+max bucket size 30
+max bucket size 29
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,2,2500000,0.583294,11.687,5.82153,1.40365,19.4954
+max bucket size 31
+max bucket size 31
+max bucket size 30
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,3,1666660,0.384577,9.52635,4.30227,1.10889,15.3221
+max bucket size 36
+max bucket size 38
+max bucket size 36
+max bucket size 37
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,4,1250000,0.277414,7.2114,2.9504,0.892895,11.3321
+max bucket size 41
+max bucket size 40
+max bucket size 40
+max bucket size 40
+max bucket size 40
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,5,1000000,0.24897,6.68685,2.50287,0.742307,10.181
+max bucket size 27
+max bucket size 27
+max bucket size 27
+max bucket size 26
+max bucket size 26
+max bucket size 27
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,6,833330,0.198541,5.86546,2.20876,0.596303,8.86907
+max bucket size 32
+max bucket size 32
+max bucket size 33
+max bucket size 32
+max bucket size 32
+max bucket size 32
+max bucket size 32
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,7,714280,0.171002,5.67614,2.72968,0.517602,9.09442
+max bucket size 35
+max bucket size 34
+max bucket size 34
+max bucket size 35
+max bucket size 34
+max bucket size 34
+max bucket size 34
+max bucket size 34
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,8,625000,0.142951,4.94163,2.3546,0.49431,7.93349
+max bucket size 27
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,5000000,1.00117,17.0271,11.1897,2.01741,31.2354
+max bucket size 72
+max bucket size 72
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,2,2500000,0.582356,10.7432,3.41414,1.49036,16.2301
+max bucket size 30
+max bucket size 29
+max bucket size 30
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,3,1666660,0.393506,10.0948,4.01774,1.13118,15.6373
+max bucket size 33
+max bucket size 33
+max bucket size 33
+max bucket size 33
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,4,1250000,0.276879,7.19518,2.69933,0.907108,11.0785
+max bucket size 46
+max bucket size 46
+max bucket size 46
+max bucket size 46
+max bucket size 46
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,5,1000000,0.251128,5.7787,2.68467,0.710381,9.42489
+max bucket size 32
+max bucket size 33
+max bucket size 32
+max bucket size 32
+max bucket size 32
+max bucket size 32
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,6,833330,0.199779,5.84662,2.04334,0.643407,8.73315
+max bucket size 50
+max bucket size 50
+max bucket size 50
+max bucket size 50
+max bucket size 50
+max bucket size 50
+max bucket size 50
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,7,714280,0.164194,5.58064,1.22745,0.576339,7.54862
+max bucket size 29
+max bucket size 29
+max bucket size 29
+max bucket size 29
+max bucket size 28
+max bucket size 29
+max bucket size 29
+max bucket size 29
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,8,625000,0.144136,4.89686,2.32588,0.533452,7.90033
+max bucket size 29
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,1,5000000,0.999359,17.5062,11.3332,1.97751,31.8162
+max bucket size 34
+max bucket size 34
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,2,2500000,0.586342,8.61856,5.73106,1.40505,16.341
+max bucket size 30
+max bucket size 29
+max bucket size 30
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,3,1666660,0.389112,10.0223,4.245,1.1655,15.8219
+max bucket size 30
+max bucket size 31
+max bucket size 30
+max bucket size 30
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,4,1250000,0.277684,6.58583,3.2257,0.928989,11.0182
+max bucket size 33
+max bucket size 33
+max bucket size 33
+max bucket size 33
+max bucket size 33
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,5,1000000,0.247302,5.76411,2.69272,0.7496,9.45373
+max bucket size 30
+max bucket size 30
+max bucket size 30
+max bucket size 30
+max bucket size 30
+max bucket size 30
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,6,833330,0.192279,5.99234,3.17358,0.652131,10.0103
+max bucket size 29
+max bucket size 29
+max bucket size 30
+max bucket size 30
+max bucket size 29
+max bucket size 29
+max bucket size 29
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,7,714280,0.170998,5.46752,2.73618,0.583377,8.95807
+max bucket size 36
+max bucket size 36
+max bucket size 36
+max bucket size 36
+max bucket size 36
+max bucket size 36
+max bucket size 36
+max bucket size 36
+DONE
+
+RESULTS 
+TAB_SIZE,N_THREADS,N_BUCKETS_IN_THREAD,time_fill_tab,time_bucketing,time_sort,time_rewriting,time_all
+100000000,8,625000,0.145755,5.0177,2.25502,0.523109,7.94158
